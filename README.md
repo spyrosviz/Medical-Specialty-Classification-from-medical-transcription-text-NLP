@@ -14,3 +14,6 @@ Dataset was found on kaggle in the following notebook [https://www.kaggle.com/co
 5. **DocVectorizer**
 6. **Recurrent Neural Networks (LSTM)**
 7. **BioBert model finetuning using transformers library from Huggingface**
+
+## **TODO**
+1. Optimize the hyperparameters for the model with the best performance
